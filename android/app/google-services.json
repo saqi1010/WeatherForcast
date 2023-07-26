@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136031160149",
+    "project_id": "weatherforcast-b0f6a",
+    "storage_bucket": "weatherforcast-b0f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136031160149:android:a41ae4f4c145d37a9ed1dc",
+        "android_client_info": {
+          "package_name": "com.weatherforcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136031160149-busvslosb4vr53l9u3v2qbi0p9s5rkru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weatherforcast",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "136031160149-qetri8qvl13bfgp2brechfr2m019os5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsylOHXNxqdXmFLdYJgrh11ekCVjku3Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136031160149-qetri8qvl13bfgp2brechfr2m019os5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
